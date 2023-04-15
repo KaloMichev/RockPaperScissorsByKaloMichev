@@ -56,6 +56,6 @@ switch (input)
         break;
     
     default:
-        Console.WriteLine("Invalid imput. Try again...");
+        Console.WriteLine("Invalid input. Try again...");
         break;
 }
